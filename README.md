@@ -1,4 +1,4 @@
-## $$\color{blue}Welcome to Abdulrahman Oladipupo Ibraheem's Github profile $$👋
+## $$\color{blue}Welcome \space to \space Abdulrahman \space Oladipupo \space Ibraheem's  \space Github \space profile \space $$👋
  This is Abdulrahman Oladipupo Ibraheem's Github profile  
 $${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
