@@ -1,7 +1,7 @@
 # $$\color{blue} Welcome👋$$ 
 #### $$📧\space \color{yellow}rahmanoladi@yahoo{.}com$$
 ## $\color{blue} \text{This is Abdulrahman Ibraheem's Github Profile}$  
-##### Abdulrahman  studied   computer   science   and   engineering   at   Obafemi   Awolowo   University.   He   is   interested   in   machine   learning   research. He   has completed   one  year   of   internship   with   MILA (Montreal   Institute   of   Learning   Algorithms) in   the   research   group   of   Professor   Yoshua   Bengio  (a   recipient   of   the 2018  ACM   Turing   Award   and the most-cited living scientist across all fields (by total citations)).
+##### $$\color{blue}Abdulrahman \space  studied \space  computer \space  science  \space and \space  engineering \space  at  \space Obafemi \space  Awolowo \space  University. \space  He   is   interested   in   machine   learning   research.$$ He   has completed   one  year   of   internship   with   MILA (Montreal   Institute   of   Learning   Algorithms) in   the   research   group   of   Professor   Yoshua   Bengio  (a   recipient   of   the 2018  ACM   Turing   Award   and the most-cited living scientist across all fields (by total citations)).
 
 ##### Subsequently,   Abdulrahman   and   collaborators   at   KAUST   and   Karolinska   Institute   conducted   research   at   the   intersection   of   graph   neural   networks   (GNNs),   algorithmic   complexity,   and    molecular   graphs. We   sucessfully   used   algorithmic   complexity   to   explain   why    GNNs    boost   accuracies  with    path   connectivity   information   on   some   molecular   graphs,   while   diminishing   accuracies   on   other   molecular   graphs.
 
