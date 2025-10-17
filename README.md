@@ -1,4 +1,5 @@
-# $$\color{blue} Welcome👋  📧:\space rahmanoladi@yahoo{.}com$$
+# $$\color{blue} Welcome👋$$
+$$$📧:\space rahmanoladi@yahoo{.}com$$$
 ## $\color{blue}\text{This is Abdulrahman Ibraheem's Github Profile}$  
 $\color{blue}\text{Abdulrahman studied computer science and engineering at Obafemi Awolowo University. He is interested in machine learning research. He has completed one year of internship with MILA (Montreal Institute of Learning Algorithms) in the research group of Professor Yoshua Bengio (a recipient of the ACM Turing Award and Canadian Best Scientist Award.)}$. Subsequently, Abdulrahman and collaborators at KAUST and Karolinska Institute worked at the intersection of graph neural networks (GNNs), algorithmic complexity, and  molecular graphs. We sucessfully used algorithmic complexity to explain why some GNNs work better 
 
