@@ -1,7 +1,7 @@
 ## Welcome👋
  This is Abdulrahman Oladipupo Ibraheem's Github profile  
 ```diff
-- text in red
+text in red
 + text in green
 ! text in orange
 # text in gray
