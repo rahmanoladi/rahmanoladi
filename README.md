@@ -1,6 +1,5 @@
-## Welcome 
-I am Abdulrahman Oladipupo Ibraheem👋
-
+## Welcome👋
+<p> This is Abdulrahman Oladipupo Ibraheem's Github profile <\p>
 <!--
 **rahmanoladi/rahmanoladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
