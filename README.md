@@ -1,4 +1,4 @@
-## $$\color{blue} Welcome 👋  📧:rahmanoladi@yahoo.com$$
+## $$Welcome 👋  📧:rahmanoladi@yahoo.com$$
 $\color{blue}\text{This is Abdulrahman Ibraheem's Github Profile}$  
 
 
