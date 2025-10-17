@@ -1,4 +1,4 @@
-## Welcome👋
+ $$\clor{blue}Welcome$$👋
  This is Abdulrahman Oladipupo Ibraheem's Github profile  
 $${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
