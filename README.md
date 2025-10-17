@@ -1,22 +1,13 @@
 ## Welcome👋
-<p> This is Abdulrahman Oladipupo Ibraheem's Github profile  <\p>
+ This is Abdulrahman Oladipupo Ibraheem's Github profile  
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
-<html>
-<head>
-<style>
-p {
-  color: navy;
-  text-indent: 30px;
-  text-transform: uppercase;
-}
-</style>
-</head>
-<body>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-</body>
-</html>
   
 <!--
 **rahmanoladi/rahmanoladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
