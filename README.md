@@ -1,6 +1,6 @@
 ## $$\color{blue}Welcome 👋  📧:rahmanoladi@yahoo.com$$
 $\color{blue}\text{This is Abdulrahman Ibraheem's Github Profile}$  
-Abdulrahman studied computer
+
 
   
 <!--
