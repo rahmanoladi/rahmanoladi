@@ -1,7 +1,7 @@
-## $$\color{blue} Welcome \space rahmanoladi@yahoo{.}com$$
+## $$\color{blue} Welcome👋  📧:\space rahmanoladi@yahoo{.}com$$
 $\color{blue}\text{This is Abdulrahman Ibraheem's Github Profile}$  
 
-👋  📧 
+
   
 <!--
 **rahmanoladi/rahmanoladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
