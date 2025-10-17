@@ -1,5 +1,5 @@
 # $$\color{blue} Welcome👋$$ 
-#### $$📧\space rahmanoladi@yahoo{.}com$$
+#### $$📧\space \color{cyan}rahmanoladi@yahoo{.}com$$
 ## $\color{blue} \text{This is Abdulrahman Ibraheem's Github Profile}$  
 $$\color{blue} \text{Abdulrahman studied computer science and engineering at Obafemi Awolowo University. He is interested in machine learning research. He has 
 completed one year of internship with MILA } $$
