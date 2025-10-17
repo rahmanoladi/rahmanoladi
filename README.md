@@ -1,5 +1,5 @@
-## $$\color{blue}Welcome...$$👋
- $\text{This is Abdulrahman Oladipupo Ibraheem's Github profile}$  
+## $$\color{blue}Welcome $$👋
+ $\color{blue}\text{This is Abdulrahman Oladipupo Ibraheem's Github profile}$  
 $${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
   
