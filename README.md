@@ -11,7 +11,7 @@
 - Ibraheem, A.O. Regularizing cross entropy loss via minimum entropy and KL divergence. arXiv preprint arXiv:2501.13709, 2025.
 - Ibraheem A.O., Xue J., Liu D., Bengio Y.HBERT + BiasCorp - Fighting Racism on the Web. Proceedings of the EACL Workshop on Language Technology for Equality,
   Diversity and Inclusion, 2021.
-- Ibraheem A.O. On the Choice of InterClass Distance Maximization Term in Siamese Neural Networks. Springer Neural Processing Letters, 2019
+- Ibraheem A.O. On the Choice of Inter-Class Distance Maximization Term in Siamese Neural Networks. Springer Neural Processing Letters, 2019
   
 <!--
 **rahmanoladi/rahmanoladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
