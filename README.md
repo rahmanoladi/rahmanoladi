@@ -7,7 +7,11 @@
 
 ### $$\color{blue} \text{In recent times, I have experimented into novel models that may hopefully serve as alternatives to Kolmogorov-Arnold }$$  $$\color{blue} \text{ networks, as well as to classical MLPs, and I am open to collaborating with researchers on this topic.}$$ $$\color{blue} \text{ For discussion about collaboration, I can be reached at }$$rahmanoladi@yahoo.com
 
-
+### $$\color{blue} \text{PUBLICATIONS}$$
+-Ibraheem A.O., Xue J., Liu D., Bengio Y.HBERT + BiasCorp - Fighting Racism on the Web. Proceedings of the EACL Workshop on Language Technology for Equality,
+Diversity and Inclusion, 2021.
+-Ibraheem A.O. On the Choice of InterClass Distance Maximization Term in Siamese
+Neural Networks. Springer Neural Processing Letters, 2019
   
 <!--
 **rahmanoladi/rahmanoladi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
