@@ -5,7 +5,7 @@
 
 ### $$\color{blue} \text{Subsequently,   Abdulrahman   and   collaborators   at   KAUST   and   Karolinska   Institute   conducted   research at   the  }$$  $$\color{blue} \text{ intersection   of   graph   neural   networks   (GNNs),   algorithmic   complexity, and    molecular   graphs. We  sucessfully }$$  $$\color{blue} \text{ discovered  a theory that uses algorithmic  complexity as an elegant underpinning for  why path   connectivity   }$$  $$\color{blue} \text{   information   boost GNN   accuracies on   certain  types of molecular graph datasets, while  diminishing   accuracies   on }$$  $$\color{blue} \text{  other   types of molecular graph datasets.}$$
 
-##### $$\color{blue} \text{In recent times, I have experimented into models that may hopefully serve as}$$ $$\color{blue} \text{ alternatives to Kolmogorov-Arnold networks as well as for classical MLPs.}$$  $$\color{blue} \text{ I am open to collaborating with researchers on this topic. I can be }$$ $$\color{blue} \text{reached at }$$rahmanoladi@yahoo.com
+### $$\color{blue} \text{In recent times, I have experimented into models that may hopefully serve as}$$ $$\color{blue} \text{ alternatives to Kolmogorov-Arnold networks as well as for classical MLPs.}$$  $$\color{blue} \text{ I am open to collaborating with researchers on this topic. I can be }$$ $$\color{blue} \text{reached at }$$rahmanoladi@yahoo.com
 
 
   
